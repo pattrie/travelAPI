@@ -1,8 +1,9 @@
 dist: trusty
 language: java
-sudo: false
 jdk:
   - oraclejdk11
+
+arch: amd64
 
 git:
   depth: 2
