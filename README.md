@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Estudos em grupo: Desenvolvimento de uma API em Java e Spring Framework 🚀</h1>
-<p align="center">  Para gerenciamento de viagens.</p>
+<h1 align="center">🚀 Gerenciador de viagens 🚀</h1>
+<p align="center">  Estudos em grupo: Desenvolvimento de uma API em Java e Spring Framework.</p>
 
 ### Aprendendo com os artigos da [Mariana Azevedo](https://mari-azevedo.medium.com/)
 
